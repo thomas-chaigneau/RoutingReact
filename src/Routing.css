@@ -1,0 +1,14 @@
+body {
+	margin:40px;
+}
+
+a {
+	margin: 10px;
+	background-color: gray;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+h3 {
+	margin-top: 40px;
+}
